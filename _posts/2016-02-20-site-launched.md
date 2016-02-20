@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hello World, is Nef"
+title: "Nef, the world and you"
 date: 2016-02-20
 ---
 
